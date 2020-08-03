@@ -1,0 +1,16 @@
+body{
+	font-size: 16px;
+	color: #fff;
+	background-color: #1CC4F3;
+	font-family: 'Kaushan Script', cursive;
+}
+#header-nav{
+	background-color: #F38317;
+	border-radius: 0;
+	border:0;
+}
+#logo-img{
+	background: url('logo.png') no-repeat;
+	width:150px;
+	height:150px;
+}
